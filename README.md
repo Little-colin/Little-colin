@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Little-colin
-- 👀 I’m interested in Me tornar um profissional em programação
+- 👀 I’m interested in becoming a professional programmer
 - 🌱 I’m currently learning html,css e portugol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Não me incomodo
+- 😄 Pronouns: For me it doesn't matter
 - ⚡ Fun fact: Estou no SENAI
 
 <!---
